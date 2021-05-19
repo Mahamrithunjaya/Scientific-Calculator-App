@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="dark_blue">#00008B</color>
+    <color name="navy">#000080</color>
+    <color name="lighter_daisy">#EFD469</color>
+    <color name="lighter_ruby">#CD594A</color>
+
+    <color name="blackStart">#060607</color>
+    <color name="blueBlack">#111f28</color>
+    <color name="greyEnd">#484e52</color>
+    
+    <color name="blackPearl">#0F2027</color>
+    <color name="tarawera">#203A43</color>
+    <color name="arapawa">#2C5364</color>
+
+    <color name="cerulean">#04619f</color>
+    <color name="black">#FF000000</color>
+    
+    <color name="greyAccent">#afb9c5</color>
+    <color name="tanAccent">#e3cdb3</color>
+
+    <color name="midnight_express">#141E30</color>
+    <color name="catalina_blue">#243B55</color>
+
+    <color name="redBackground">#ED213A</color>
+    <color name="mandarian_orange">#93291E</color>
+    <color name="redAccent">#ff0000</color>
+
+    <color name="kelly_green">#52c234</color>
+    <color name="green_end">#061700</color>
+    <color name="greenAccent">#2ffd64</color>
+
+    <color name="purpleBackground">#330133</color>
+    <color name="purpleAccent">#de00de</color>
+    <color name="mulberry">#ad5389</color>
+    <color name="black_currant">#3c1053</color>
+
+</resources>
