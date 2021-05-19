@@ -20,3 +20,25 @@ This is a small project for my final year of B.Sc. that's why i had used this li
 <div>
   <img src="https://github.com/Mahamrithunjaya/Scientific-Calculator-App/blob/master/design_screenshots/scientific-version.png" alt="Scientific Calc" height="700dp">
 </div>
+
+---
+  
+* Mobile View - 1:
+
+<div>
+  <img src="https://github.com/Mahamrithunjaya/Scientific-Calculator-App/blob/master/design_screenshots/Screenshot_2021-05-17-03-03-37-985_com.example.scientificcalculatorproject_finalyear.jpg" alt="mobile-view-1" height="800dp">
+</div>
+
+* Scientific Calc:
+
+<div>
+  <img src="https://github.com/Mahamrithunjaya/Scientific-Calculator-App/blob/master/design_screenshots/Screenshot_2021-05-17-03-04-24-148_com.example.scientificcalculatorproject_finalyear.jpg" alt="mobile-view-2" height="800dp">
+</div>
+
+---
+  
+* Scientific Calc:
+
+<div>
+  <img src="https://github.com/Mahamrithunjaya/Scientific-Calculator-App/blob/master/design_screenshots/Screenshot_2021-05-17-03-53-09-782_com.example.scientificcalculatorproject_finalyear.jpg" alt="mobile-view-3" height="800dp">
+</div>
